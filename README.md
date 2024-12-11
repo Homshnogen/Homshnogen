@@ -4,8 +4,9 @@
 - 💞️ I’m open to collaborate on anything, just send me a message!
 - 📫 Feel free to contact me however you can
 
-To Do: Add README files for the new repositories for ported projects
 <!---
+To Do: Add README files for the new repositories for ported projects
+
 Homshnogen/Homshnogen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
